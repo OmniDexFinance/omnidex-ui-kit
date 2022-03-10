@@ -5,8 +5,8 @@ export const themes: Themes = {
   default: {
     headerBg: { hex: '#2b2d3c', rgb: [43, 45, 60] },
     mainBg: { hex: '#f1f1f3', rgb: [241, 241, 243] },
-    primary: { hex: '#e9981b', rgb: [182, 80, 158] },
-    secondary: { hex: '#e9981b', rgb: [46, 186, 198] },
+    primary: { hex: '#e9981b', rgb: [233, 152, 27] },
+    secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
     darkBlue: { hex: '#383d51', rgb: [56, 61, 81] },
     textDarkBlue: { hex: '#383d51', rgb: [56, 61, 81] },
     lightBlue: { hex: '#8d8f99', rgb: [141, 143, 153] },
@@ -24,8 +24,8 @@ export const themes: Themes = {
   dark: {
     headerBg: { hex: '#20202e', rgb: [32, 32, 46] },
     mainBg: { hex: '#2b2d3c', rgb: [43, 45, 60] },
-    primary: { hex: '#b6509e', rgb: [182, 80, 158] },
-    secondary: { hex: '#2ebac6', rgb: [46, 186, 198] },
+    primary: { hex: '#e9981b', rgb: [233, 152, 27] },
+    secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
     darkBlue: { hex: '#383d51', rgb: [56, 61, 81] },
     textDarkBlue: { hex: '#f1f1f3', rgb: [241, 241, 243] },
     lightBlue: { hex: '#8d8f99', rgb: [141, 143, 153] },
