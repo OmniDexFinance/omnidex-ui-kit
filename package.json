@@ -6,10 +6,10 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "name": "@omnidex/omnidex-ui-kit",
-  "module": "dist/aave-ui-kit.esm.js",
+  "module": "dist/omnidex-ui-kit.esm.js",
   "repository": {
     "type": "git",
-    "url": "git@githab.com:aave/aave-ui-kit.git"
+    "url": "git@githab.com:OmniDexFinance/omnidex-ui-kit.git"
   },
   "files": [
     "dist"
