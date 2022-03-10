@@ -5,7 +5,7 @@
   "description": "This package contains the ui components and helpers for AAVE projects",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "name": "@aave/aave-ui-kit",
+  "name": "@omnidex/omnidex-ui-kit",
   "module": "dist/aave-ui-kit.esm.js",
   "repository": {
     "type": "git",
@@ -96,5 +96,6 @@
     "ios_saf >= 9",
     "safari >= 9",
     "node 10"
-  ]
+  ],
+  "author": ""
 }
