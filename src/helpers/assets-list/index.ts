@@ -16,18 +16,18 @@ export interface Asset {
 
 export const assetsList: Asset[] = [
   {
-    name: 'Charm',
-    symbol: 'CHARM',
-    color: '#b6509e',
-    icon: icons.aave,
-    aIcon: aIcons.aaave,
+    name: 'Karma',
+    symbol: 'KARMA',
+    color: '#ffb11e',
+    icon: icons.karma,
+    aIcon: aIcons.akarma,
   },
   {
     name: 'Telos',
     symbol: 'WTLOS',
-    color: '#b6509e',
-    icon: icons.stkaave,
-    aIcon: aIcons.astkaave,
+    color: '#9151b6',
+    icon: icons.wtlos,
+    aIcon: aIcons.awtlos,
   },
   {
     name: 'Wrapped ETH',
@@ -48,7 +48,7 @@ export const assetsList: Asset[] = [
     name: 'USDT Coin',
     symbol: 'USDT',
     formattedSymbol: 'USDT',
-    color: '#4db196',
+    color: '#28b171',
     icon: icons.usdt,
     aIcon: aIcons.ausdt,
   },

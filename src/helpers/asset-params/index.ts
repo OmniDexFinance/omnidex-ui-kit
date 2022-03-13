@@ -7,23 +7,7 @@ export const getAssetColor = (assetSymbol: string) => {
   return assetColor || '#2ebac6';
 };
 
-export const STABLE_ASSETS = [
-  'DAI',
-  'UNIDAI',
-  'USDC',
-  'UNIUSDC',
-  'TUSD',
-  'USDT',
-  'UNIUSDT',
-  'SUSD',
-  'BUSD',
-  'GUSD',
-  'PAX',
-  'FRAX',
-  'USDP',
-  'FEI',
-  'EURS',
-];
+export const STABLE_ASSETS = ['USDC', 'USDT'];
 
 export const isAssetStable = (assetSymbol: string) => {
   const assetInfo = getAssetInfo(assetSymbol);
