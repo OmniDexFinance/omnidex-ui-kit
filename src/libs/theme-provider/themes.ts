@@ -36,7 +36,7 @@ export const themes: Themes = {
     orange: { hex: '#ffac4d', rgb: [255, 172, 77] },
     green: { hex: '#0cab07', rgb: [12, 71, 7] },
     white: { hex: '#f1f1f3', rgb: [241, 241, 243] },
-    whiteElement: { hex: '#383d51', rgb: [56, 61, 81] },
+    whiteElement: { hex: '#181717', rgb: [56, 61, 81] },
     whiteItem: { hex: '#2b2d3c', rgb: [43, 45, 60] },
     darkOrange: { hex: '#2ea828', rgb: [46, 168, 40] }, // for deposit APY
     gray: { hex: '#707070', rgb: [112, 112, 112] },
