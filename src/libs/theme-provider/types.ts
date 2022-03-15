@@ -3,6 +3,7 @@ export interface Themes {
     headerBg: { hex: string; rgb: number[] };
     mainBg: { hex: string; rgb: number[] };
     mainBgCenter: { hex: string; rgb: number[] };
+    borderColor: { hex: string; rgb: number[] };
     primary: { hex: string; rgb: number[] };
     secondary: { hex: string; rgb: number[] };
     darkBlue: { hex: string; rgb: number[] };
