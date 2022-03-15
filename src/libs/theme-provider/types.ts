@@ -2,6 +2,7 @@ export interface Themes {
   [key: string]: {
     headerBg: { hex: string; rgb: number[] };
     mainBg: { hex: string; rgb: number[] };
+    mainBgCenter: { hex: string; rgb: number[] };
     primary: { hex: string; rgb: number[] };
     secondary: { hex: string; rgb: number[] };
     darkBlue: { hex: string; rgb: number[] };
@@ -16,6 +17,7 @@ export interface Themes {
     darkOrange: { hex: string; rgb: number[] };
     gray: { hex: string; rgb: number[] };
     lightGray: { hex: string; rgb: number[] };
+    darkGray: { hex: string; rgb: number[] };
     disabledGray: { hex: string; rgb: number[] };
   };
 }

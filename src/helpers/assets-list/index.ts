@@ -18,7 +18,7 @@ export const assetsList: Asset[] = [
   {
     name: 'Karma',
     symbol: 'KARMA',
-    color: '#ffb11e',
+    color: '#c75b01',
     icon: icons.karma,
     aIcon: aIcons.akarma,
   },
