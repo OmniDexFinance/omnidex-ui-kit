@@ -20,7 +20,7 @@ export const themes: Themes = {
     darkOrange: { hex: '#2ea828', rgb: [46, 168, 40] }, // for deposit APY
     gray: { hex: '#707070', rgb: [112, 112, 112] },
     lightGray: { hex: '#a2a2a2', rgb: [162, 162, 162] },
-    darkGray: { hex: '#565055', rgb: [86, 80, 85] },
+    darkGray: { hex: '#a2a2a2', rgb: [162, 162, 162] },
     disabledGray: { hex: '#e0e0e2', rgb: [224, 224, 226] },
   },
   dark: {
@@ -37,11 +37,11 @@ export const themes: Themes = {
     green: { hex: '#0cab07', rgb: [12, 71, 7] },
     white: { hex: '#f1f1f3', rgb: [241, 241, 243] },
     whiteElement: { hex: '#181717', rgb: [56, 61, 81] },
-    whiteItem: { hex: '#2b2d3c', rgb: [43, 45, 60] },
+    whiteItem: { hex: '#372f47', rgb: [55, 47, 71] },
     darkOrange: { hex: '#2ea828', rgb: [46, 168, 40] }, // for deposit APY
     gray: { hex: '#707070', rgb: [112, 112, 112] },
     lightGray: { hex: '#a2a2a2', rgb: [162, 162, 162] },
-    darkGray: { hex: '#383241', rgb: [56, 50, 65] },
+    darkGray: { hex: '#565055', rgb: [86, 80, 85] },
     disabledGray: { hex: '#20202e', rgb: [32, 32, 46] },
   },
 };
