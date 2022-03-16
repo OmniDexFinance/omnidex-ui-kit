@@ -2,6 +2,7 @@ import karma from './karma.svg';
 import usdc from './usdc.svg';
 import usdt from './usdt.svg';
 import wbtc from './wbtc.svg';
+import charm from './charm.svg';
 import weth from './weth.svg';
 import wtlos from './wtlos.svg';
 import tlos from './tlos.svg';
@@ -14,6 +15,7 @@ export default {
   usdc,
   usdt,
   wbtc,
+  charm,
   weth,
   tlos,
   wtlos,

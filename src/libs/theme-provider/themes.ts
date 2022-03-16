@@ -5,7 +5,7 @@ export const themes: Themes = {
   default: {
     headerBg: { hex: '#2b2d3c', rgb: [43, 45, 60] },
     mainBg: { hex: '#f1f1f3', rgb: [241, 241, 243] },
-    mainBgCenter: { hex: '#ffdaa2', rgb: [255, 218, 162] },
+    mainBgCenter: { hex: '#6a2e2e', rgb: [106, 46, 46] },
     border: { hex: '#a2a2a2', rgb: [162, 162, 162] },
     primary: { hex: '#e9981b', rgb: [233, 152, 27] },
     secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
@@ -26,7 +26,7 @@ export const themes: Themes = {
   },
   dark: {
     headerBg: { hex: '#20202e', rgb: [32, 32, 46] },
-    mainBg: { hex: 'black', rgb: [0, 0, 0] },
+    mainBg: { hex: '#000000', rgb: [0, 0, 0] },
     mainBgCenter: { hex: '#6a2e2e', rgb: [106, 46, 46] },
     border: { hex: '#565055', rgb: [86, 80, 85] },
     primary: { hex: '#e9981b', rgb: [233, 152, 27] },

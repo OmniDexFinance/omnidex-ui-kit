@@ -16,7 +16,7 @@ export interface Asset {
 
 export const assetsList: Asset[] = [
   {
-    name: 'Karma',
+    name: 'Charm Dojo',
     symbol: 'KARMA',
     color: '#c75b01',
     icon: icons.karma,
@@ -28,6 +28,13 @@ export const assetsList: Asset[] = [
     color: '#9151b6',
     icon: icons.wtlos,
     aIcon: aIcons.awtlos,
+  },
+  {
+    name: 'Charm',
+    symbol: 'CHARM',
+    color: '#9151b6',
+    icon: icons.charm,
+    aIcon: aIcons.acharm,
   },
   {
     name: 'Wrapped ETH',

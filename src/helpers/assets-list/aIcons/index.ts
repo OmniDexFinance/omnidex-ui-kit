@@ -1,6 +1,7 @@
 import ausdc from './ausdc.svg';
 import ausdt from './ausdt.svg';
 import awbtc from './awbtc.svg';
+import acharm from './acharm.svg';
 import aweth from './aweth.svg';
 import akarma from './akarma.svg';
 import awtlos from './awtlos.svg';
@@ -12,6 +13,7 @@ interface Images {
 
 export default {
   akarma,
+  acharm,
   ausdt,
   ausdc,
   awbtc,
