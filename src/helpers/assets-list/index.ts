@@ -25,14 +25,21 @@ export const assetsList: Asset[] = [
   {
     name: 'Telos',
     symbol: 'WTLOS',
-    color: '#9151b6',
+    color: '#a66ef2',
     icon: icons.wtlos,
     aIcon: aIcons.awtlos,
   },
   {
+    name: 'Telos',
+    symbol: 'TLOS',
+    color: '#a66ef2',
+    icon: icons.tlos,
+    aIcon: aIcons.atlos,
+  },
+  {
     name: 'Charm',
     symbol: 'CHARM',
-    color: '#9151b6',
+    color: '#a66ef2',
     icon: icons.charm,
     aIcon: aIcons.acharm,
   },
