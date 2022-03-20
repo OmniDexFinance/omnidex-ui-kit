@@ -4,8 +4,8 @@ import { Themes } from './types';
 export const themes: Themes = {
   default: {
     headerBg: { hex: '#2b2d3c', rgb: [43, 45, 60] },
-    mainBg: { hex: '#241e3a', rgb: [36, 30, 58] },
-    mainBgCenter: { hex: '#24131d', rgb: [36, 19, 29] },
+    mainBg: { hex: '#f1f1f3', rgb: [241, 241, 243] },
+    mainBgCenter: { hex: '#6a2e2e', rgb: [106, 46, 46] },
     border: { hex: '#b6b6b6', rgb: [182, 182, 182] },
     primary: { hex: '#e9981b', rgb: [233, 152, 27] },
     secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
@@ -26,8 +26,8 @@ export const themes: Themes = {
   },
   dark: {
     headerBg: { hex: '#20202e', rgb: [32, 32, 46] },
-    mainBg: { hex: '#000000', rgb: [0, 0, 0] },
-    mainBgCenter: { hex: '#6a2e2e', rgb: [106, 46, 46] },
+    mainBg: { hex: '#241e3a', rgb: [36, 30, 58] },
+    mainBgCenter: { hex: '#24131d', rgb: [36, 19, 29] },
     border: { hex: '#565055', rgb: [86, 80, 85] },
     primary: { hex: '#e9981b', rgb: [233, 152, 27] },
     secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
