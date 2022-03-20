@@ -36,7 +36,9 @@
 }
 
 .BasicModal__dark.ReactModal__Content {
-  background: $white;
+  background: $mainBg;
+  color: $white;
+  border-radius: 15px !important;
 }
 
 .BasicModal__close-wrapper {
