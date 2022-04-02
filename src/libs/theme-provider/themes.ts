@@ -21,7 +21,7 @@ export const themes: Themes = {
     blackElement: { hex: '#181717', rgb: [56, 61, 81] },
     darkOrange: { hex: '#2ea828', rgb: [46, 168, 40] }, // for deposit APY
     gray: { hex: '#707070', rgb: [112, 112, 112] },
-    lightGray: { hex: '#a2a2a2', rgb: [162, 162, 162] },
+    lightGray: { hex: '#eeeaf4', rgb: [238, 234, 244] },
     darkGray: { hex: '#a2a2a2', rgb: [162, 162, 162] },
     disabledGray: { hex: '#e0e0e2', rgb: [224, 224, 226] },
   },
