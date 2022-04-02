@@ -27,7 +27,7 @@ export const themes: Themes = {
   dark: {
     headerBg: { hex: '#20202e', rgb: [32, 32, 46] },
     mainBg: { hex: '#241e3a', rgb: [36, 30, 58] },
-    mainBgCenter: { hex: '#24131d', rgb: [36, 19, 29] },
+    mainBgCenter: { hex: '#381d2d', rgb: [56, 29, 45] },
     border: { hex: '#565055', rgb: [86, 80, 85] },
     primary: { hex: '#e9981b', rgb: [233, 152, 27] },
     secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
