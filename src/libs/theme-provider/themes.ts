@@ -3,14 +3,14 @@ import { Themes } from './types';
 // eslint-disable-next-line import/prefer-default-export
 export const themes: Themes = {
   default: {
-    headerBg: { hex: '#2b2d3c', rgb: [43, 45, 60] },
-    mainBg: { hex: '#f1f1f3', rgb: [241, 241, 243] },
-    mainBgCenter: { hex: '#6a2e2e', rgb: [106, 46, 46] },
+    headerBg: { hex: '#ffffff', rgb: [255, 255, 255] },
+    mainBg: { hex: '#dadff2', rgb: [218, 223, 242] },
+    mainBgCenter: { hex: '#dadff2', rgb: [218, 223, 242] },
     border: { hex: '#b6b6b6', rgb: [182, 182, 182] },
-    primary: { hex: '#e9981b', rgb: [233, 152, 27] },
-    secondary: { hex: '#e9981b', rgb: [233, 152, 27] },
+    primary: { hex: '#182a5b', rgb: [24, 42, 91] },
+    secondary: { hex: '#182a5b', rgb: [24, 42, 91] },
     darkBlue: { hex: '#383d51', rgb: [56, 61, 81] },
-    textDarkBlue: { hex: '#383d51', rgb: [56, 61, 81] },
+    textDarkBlue: { hex: '#544359', rgb: [84, 67, 89] },
     lightBlue: { hex: '#8d8f99', rgb: [141, 143, 153] },
     red: { hex: '#df3f42', rgb: [223, 63, 66] },
     orange: { hex: '#ffac4d', rgb: [255, 172, 77] },
