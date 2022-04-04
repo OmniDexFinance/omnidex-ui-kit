@@ -1,3 +1,4 @@
+import aavax from './aavax.svg';
 import ausdc from './ausdc.svg';
 import ausdt from './ausdt.svg';
 import awbtc from './awbtc.svg';
@@ -12,6 +13,7 @@ interface Images {
 }
 
 export default {
+  aavax,
   akarma,
   acharm,
   ausdt,

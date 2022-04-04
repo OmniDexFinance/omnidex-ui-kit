@@ -1,3 +1,4 @@
+import avax from './avax.svg';
 import karma from './karma.svg';
 import usdc from './usdc.svg';
 import usdt from './usdt.svg';
@@ -12,6 +13,7 @@ interface Images {
 }
 
 export default {
+  avax,
   usdc,
   usdt,
   wbtc,
