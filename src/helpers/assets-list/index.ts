@@ -75,8 +75,8 @@ export const assetsList: Asset[] = [
     name: 'Avax',
     symbol: 'AVAX',
     color: '#e84142',
-    icon: icons.wavax,
-    aIcon: aIcons.awavax,
+    icon: icons.avax,
+    aIcon: aIcons.aavax,
   },
   {
     name: 'USD Coin',
