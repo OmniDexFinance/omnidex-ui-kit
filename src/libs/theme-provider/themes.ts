@@ -26,7 +26,7 @@ export const themes: Themes = {
     disabledGray: { hex: '#e0e0e2', rgb: [224, 224, 226] },
   },
   dark: {
-    headerBg: { hex: '#000000', rgb: [0, 0, 0] },
+    headerBg: { hex: '#171717', rgb: [0, 0, 0] },
     mainBg: { hex: '#2e2d43', rgb: [46, 45, 67] },
     mainBgCenter: { hex: '#2e2d43', rgb: [46, 45, 67] },
     border: { hex: '#565055', rgb: [86, 80, 85] },
